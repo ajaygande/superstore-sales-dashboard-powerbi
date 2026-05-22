@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard | Power BI Mini Project
+# Superstore Sales Dashboard | Power BI
 
 An interactive Power BI dashboard analyzing Superstore sales performance across categories, regions, and customer segments.
 
@@ -66,7 +66,7 @@ Key fields used:
 ## How to Use
 
 1. Open Power BI Desktop.
-2. Load the `.pbix` file (if provided).
+2. Load the `.pbix` file.
 3. Interact with slicers to explore data.
 4. Use visuals to derive insights for business decision-making.
 
